@@ -1,0 +1,30 @@
+div.logBar {
+  position:fixed;
+  background-color:transparent;
+  width:156px;
+  right:0px;
+}
+div.huge {
+  height:60vh;
+  background-image:url('http://www.psdgraphics.com/file/colorful-triangles-background.jpg');
+}
+div.huge>h1 {
+  padding-top:50px;
+  text-shadow:3px 3px 5px rgba(0,0,0,0.35);
+}
+ul#welcomeDiv {
+  box-shadow:0px 3px 5px rgba(0,0,0,0.05);
+  position:relative;
+  background-color:rgba(0,0,0,0.1);
+  margin-top:-50px;
+}
+ul#welcomeDiv>li>a {
+  color:white;
+}
+div.content {
+  box-shadow:3px 3px 5px rgba(0,0,0,0.025), -3px 3px 5px rgba(0,0,0,0.025);
+}
+footer {
+  box-shadow:0px -3px 5px rgba(0,0,0,0.025);
+  background-image:url('http://www.psdgraphics.com/file/colorful-triangles-background.jpg');
+}
